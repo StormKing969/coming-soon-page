@@ -1,5 +1,7 @@
 import React from 'react';
-import Home from './components/Home/Home';
+import Home from '../Home/Home';
+
+import './App.scss';
 
 function App() {
   return (
