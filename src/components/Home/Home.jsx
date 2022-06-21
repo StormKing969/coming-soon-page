@@ -47,7 +47,7 @@ const Home = () => {
   console.log(useWindowWidth() < 968 );
 
   return (
-    <main className="home_container">
+    <main className="home_container bg_img_wrapper">
       <div className="logo">
         <img src={Icon} alt="logo" />
       </div>
